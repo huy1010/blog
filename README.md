@@ -1,8 +1,6 @@
-# Vitesse theme for Astro
+# Astro blog
 
-A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and UnoCSS.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0624323a-339f-48da-8b28-03037d664c40/deploy-status)](https://app.netlify.com/sites/astro-theme-vitesse/deploys)
+A minimal, SEO-friendly portfolio and blog
 
 ## Preview
 
@@ -23,14 +21,6 @@ A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and Uno
 ## Lighthouse Performance
 
 ![Lighthouse Performance Image](./public/lighthouse.jpg)
-
-## Quick Start
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kieranwv/astro-theme-vitesse)
-
-Click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
-
-If you  just want to develop locally, you can [create a repo](https://github.com/kieranwv/astro-theme-vitesse/generate) from this template on GitHub.
 
 ## Usage
 
@@ -105,7 +95,3 @@ Like this:
   }
 }
 ```
-
-## License
-
-[MIT License](./LICENSE) © 2024 [Kieran Wang](https://github.com/kieranwv/)

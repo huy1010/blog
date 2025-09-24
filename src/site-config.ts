@@ -1,5 +1,5 @@
 export const siteConfig = {
-  author: 'Kieran Wang',
+  author: 'Huy Bui',
   title: 'Vitesse theme for Astro',
   subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
@@ -7,11 +7,11 @@ export const siteConfig = {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kieranwme@gmail.com',
+  email: 'buiminhhuy.work@gmail.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: 'https://github.com/kieranwv/astro-theme-vitesse',
+      href: 'https://github.com/huy1010',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
@@ -52,10 +52,6 @@ export const siteConfig = {
         href: '/blog/notes',
       },
       {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
-      {
         text: 'Projects',
         href: '/projects',
       },
@@ -71,10 +67,6 @@ export const siteConfig = {
         text: 'Notes',
         href: '/blog/notes',
       },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
     ],
   },
   footer: {
@@ -88,12 +80,8 @@ export const siteConfig = {
         href: '/md-style',
       },
       {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
         text: 'GitHub Repository',
-        href: 'https://github.com/kieranwv/astro-theme-vitesse',
+        href: 'https://github.com/huy1010/blog',
       },
     ],
   },
