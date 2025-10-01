@@ -1,10 +1,12 @@
+import config from '../astro.config'
+
 export const siteConfig = {
   author: 'Huy Bui',
   title: 'Vitesse theme for Astro',
   subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
   image: {
-    src: '/hero.jpg',
+    src: `${config.base}/hero.jpg`,
     alt: 'Website Main Image',
   },
   email: 'buiminhhuy.work@gmail.com',
@@ -39,7 +41,7 @@ export const siteConfig = {
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: `${config.base}/favicon.svg`,
       alt: 'Logo Image',
     },
     navLinks: [
